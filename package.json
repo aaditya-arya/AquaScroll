@@ -1,0 +1,17 @@
+{
+  "name": "aquascroll",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:preview": "node scripts/build.mjs --preview",
+    "dev": "node server.js",
+    "start": "node server.js",
+    "check": "node --check app.js && node --check creature-catalog.js && node --check animal-images.js && node --check ocean-data.js && node --check ocean-art.js && node --check creatures.js && node --check server.js && node --check scripts/build.mjs && node --check content/guides.mjs && node --check lib/render-experience.mjs",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.0"
+  }
+}

@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#b7e4dd" />
+    <meta
+      name="description"
+      content="Scroll beneath the waves to discover 120 remarkable ocean creatures, one unforgettable fact at a time."
+    />
+    <title>AquaScroll — How deep does life go?</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="assets/fonts.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#sunlight">Skip to the creatures</a>
+    <div id="ocean-environment" aria-hidden="true">
+      <div class="water-color"></div>
+      <div class="water-rays"></div>
+      <div class="caustics"></div>
+      <div class="marine-snow"></div>
+      <svg
+        class="kelp-forest"
+        viewBox="0 0 1440 550"
+        preserveAspectRatio="none"
+      >
+        <g fill="none" stroke-linecap="round">
+          <g stroke="#0c594d" stroke-width="13">
+            <path
+              d="M5 560Q120 430 41 327T60 90M112 560q-63-150 0-238t-9-141M1418 560q-106-155-41-246t-4-200M1343 560q52-146-6-228t6-177"
+            />
+          </g>
+          <g stroke="#469b72" stroke-width="25">
+            <path
+              d="M38 474q-59-12-42-66m53-10q65-11 41-77M42 291q-51-16-37-69m53-11q50-3 40-61m1293 314q63-9 43-75m-53-14q-63-12-42-74m33-38q55-10 43-68"
+            />
+          </g>
+          <g stroke="#efb089" stroke-width="9">
+            <path
+              d="M182 560v-97l-30-43m30 80 37-30m1030 90v-110l-27-32m27 66 36-36"
+            />
+          </g>
+        </g>
+      </svg>
+      <div class="abyss-floor"></div>
+      <div class="trench-wall wall-left"></div>
+      <div class="trench-wall wall-right"></div>
+    </div>
+    <header class="site-header">
+      <a class="brand" href="#surface"
+        ><svg viewBox="0 0 32 24" aria-hidden="true">
+          <path d="M1 8q7-9 15 0t15 0M1 18q7-9 15 0t15 0" /></svg
+        >AquaScroll<span>.</span></a
+      ><a href="#sources" class="sources-link">About this ocean ↗</a>
+    </header>
+    <main>
+      <section
+        id="surface"
+        class="surface"
+        aria-labelledby="surface-title"
+        data-depth="0"
+      >
+        <div class="surface-sun" aria-hidden="true"></div>
+        <div class="surface-copy">
+          <span class="eyebrow">120 CREATURES. ONE VERY BIG OCEAN.</span>
+          <h1 id="surface-title">How deep<br />does <em>ocean life</em> go?</h1>
+          <p>Some of Earth’s strangest animals are hiding down here.</p>
+        </div>
+        <div class="surface-ocean" aria-hidden="true">
+          <svg
+            class="wave wave-back"
+            viewBox="0 0 1440 100"
+            preserveAspectRatio="none"
+          >
+            <path d="M0 40Q180 10 360 40T720 40 1080 40 1440 40V100H0Z" /></svg
+          ><svg
+            class="wave wave-front"
+            viewBox="0 0 1440 100"
+            preserveAspectRatio="none"
+          >
+            <path d="M0 45Q180 85 360 45T720 45 1080 45 1440 45V100H0Z" />
+          </svg>
+        </div>
+        <svg class="intro-diver" viewBox="0 0 160 230" aria-hidden="true">
+          <g class="diver-body">
+            <path
+              d="m66 107-23 49 15 35m33-82 18 47-5 34"
+              stroke="#234b5c"
+              stroke-width="15"
+              stroke-linecap="round"
+              fill="none"
+            />
+            <path
+              class="diver-fin left-fin"
+              d="m49 178-20 17 28 13 8-24"
+              fill="#f1c66f"
+            />
+            <path
+              class="diver-fin right-fin"
+              d="m98 182 5 28 30-12-19-16"
+              fill="#f1c66f"
+            />
+            <path d="M53 59q26-18 50 6l-3 62H60z" fill="#284f5c" />
+            <rect x="89" y="65" width="20" height="60" rx="8" fill="#ebc58a" />
+            <path
+              d="M57 80 31 103 9 83m93-3 20 23 26-24"
+              stroke="#284f5c"
+              stroke-width="11"
+              stroke-linecap="round"
+              fill="none"
+            />
+            <circle cx="78" cy="42" r="24" fill="#e8ba8e" />
+            <path
+              d="M56 40q22-16 44 0v14H57z"
+              fill="#6ebcba"
+              stroke="#214b5d"
+              stroke-width="5"
+            />
+            <path
+              d="M101 38V15h12"
+              stroke="#e9c06d"
+              stroke-width="7"
+              fill="none"
+              stroke-linecap="round"
+            />
+          </g>
+          <g
+            class="diver-bubbles"
+            fill="none"
+            stroke="#d7f4e4"
+            stroke-width="1.5"
+          >
+            <circle cx="119" cy="24" r="5" />
+            <circle cx="133" cy="10" r="3" />
+            <circle cx="123" cy="-7" r="7" />
+          </g>
+        </svg>
+        <div class="intro-fish fish-a" aria-hidden="true">
+          <i></i><i></i><i></i>
+        </div>
+        <div class="intro-fish fish-b" aria-hidden="true">
+          <i></i><i></i><i></i>
+        </div>
+        <a href="#sunlight" class="scroll-invitation"
+          ><span>Scroll. There’s a whole world below.</span
+          ><svg viewBox="0 0 24 40" aria-hidden="true">
+            <path d="M12 1v33m-8-8 8 9 8-9" /></svg
+        ></a>
+      </section>
+      <div id="ocean-zones"></div>
+      <section
+        id="deepest"
+        class="ocean-bottom"
+        aria-labelledby="bottom-title"
+        data-depth="10935"
+      >
+        <div class="bottom-seafloor" aria-hidden="true"></div>
+        <span class="eyebrow">YOU’VE REACHED CHALLENGER DEEP</span>
+        <p class="bottom-depth">10,935<span>m</span></p>
+        <h2 id="bottom-title">And even here,<br /><em>there is life.</em></h2>
+        <p class="bottom-last">Imagine what we haven’t found yet.</p>
+      </section>
+    </main>
+    <aside class="depth-readout" aria-label="Current ocean depth">
+      <span id="live-zone">AT THE SURFACE</span>
+      <div>
+        <span class="meter-arrow" aria-hidden="true">↓</span
+        ><strong id="live-depth">0</strong><span class="meter-unit">m</span>
+      </div>
+      <span class="meter-caption">below the surface</span>
+      <div class="encounter-progress"><i id="encounter-progress-fill"></i></div>
+      <span id="discovery-position">120 creatures below</span>
+    </aside>
+    <div class="depth-ruler" aria-hidden="true">
+      <div class="ruler-line"><i id="depth-progress"></i></div>
+      <span style="--tick: 0">0 m</span><span style="--tick: 1">200 m</span
+      ><span style="--tick: 2">1,000 m</span
+      ><span style="--tick: 3">4,000 m</span
+      ><span style="--tick: 4">6,000 m</span
+      ><span style="--tick: 5">10,935 m</span>
+    </div>
+    <div class="zone-arrival" id="zone-arrival" aria-hidden="true"></div>
+    <footer id="sources">
+      <div class="footer-heading">
+        <a class="brand" href="#surface">AquaScroll<span>.</span></a>
+        <h2>A very big ocean.<br />A little more curiosity.</h2>
+        <a class="surface-return" href="#surface">Back to the surface ↑</a>
+      </div>
+      <nav class="learning-links" aria-label="Ocean learning resources">{{LEARNING_LINKS}}</nav>
+      <div class="footer-science">
+        <details>
+          <summary>The science & image credits <span>+</span></summary>
+          <p>
+            Creature depths mark representative encounters, not complete habitat
+            ranges. These animals live across different oceans. Illustrations
+            are stylized; images may show animals in aquariums, collected
+            specimens, or scientific illustrations. Screen distance is arranged
+            for storytelling, not a constant depth scale. Challenger Deep’s
+            approximate depth follows NOAA.
+          </p>
+          <div id="source-links"></div>
+          <details class="photo-credit-list">
+            <summary>Image credits <span>+</span></summary>
+            <div id="photo-credits"></div>
+          </details>
+          <p>
+            One short fact accompanies each encounter. Additional species
+            references are collected below.
+          </p>
+          <details class="species-reference-list">
+            <summary>Species references <span>+</span></summary>
+            <div id="species-references"></div>
+          </details>
+          <p>
+            Inspired by
+            <a
+              href="https://neal.fun/deep-sea/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >The Deep Sea by Neal Agarwal</a
+            >.
+          </p>
+        </details>
+      </div>
+    </footer>
+    <noscript
+      ><p class="noscript">
+        All 120 creatures are here. Enable JavaScript for moving waves, changing water colors, and a live depth counter.
+      </p></noscript
+    >
+  </body>
+</html>

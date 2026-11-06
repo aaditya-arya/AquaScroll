@@ -1,0 +1,1173 @@
+// Generated local image inventory; attribution is displayed in the footer.
+export const ANIMAL_IMAGES = {
+  "bluedragon": {
+    "src": "assets/animals/bluedragon.jpg",
+    "width": 640,
+    "height": 621,
+    "artist": "Taro Taylor from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Glaucus_atlanticus_1_cropped.jpg",
+    "title": "Glaucus atlanticus 1 cropped"
+  },
+  "sailor": {
+    "src": "assets/animals/sailor.jpg",
+    "width": 640,
+    "height": 695,
+    "artist": "Jymm",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Velella_Bae_an_Anaon.jpg",
+    "title": "Velella Bae an Anaon"
+  },
+  "manowar": {
+    "src": "assets/animals/manowar.jpg",
+    "width": 640,
+    "height": 877,
+    "artist": "Image courtesy of Islands in the Sea 2002, NOAA/OER.",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Portuguese_Man-O-War_(Physalia_physalis).jpg",
+    "title": "Portuguese Man-O-War (Physalia physalis)"
+  },
+  "manatee": {
+    "src": "assets/animals/manatee.jpg",
+    "width": 640,
+    "height": 420,
+    "artist": "Galen Rathbun",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Manatee_with_calf.PD_-_colour_corrected.jpg",
+    "title": "Manatee with calf.PD - colour corrected"
+  },
+  "seaotter": {
+    "src": "assets/animals/seaotter.jpg",
+    "width": 640,
+    "height": 585,
+    "artist": "Marshal Hedin from San Diego",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_(Enhydra_lutris)_(25169790524)_crop.jpg",
+    "title": "Sea Otter (Enhydra lutris) (25169790524) crop"
+  },
+  "flyingfish": {
+    "src": "assets/animals/flyingfish.jpg",
+    "width": 640,
+    "height": 331,
+    "artist": "David Starr Jordan and Barton Warren Evermann",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sailfin_flyingfish.jpg",
+    "title": "Sailfin flyingfish"
+  },
+  "horseshoecrab": {
+    "src": "assets/animals/horseshoecrab.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Limulus_polyphemus_(aq.).jpg",
+    "title": "Limulus polyphemus (aq.)"
+  },
+  "dugong": {
+    "src": "assets/animals/dugong.jpg",
+    "width": 640,
+    "height": 454,
+    "artist": "Gejuni",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dugong.JPG",
+    "title": "Dugong"
+  },
+  "boxjelly": {
+    "src": "assets/animals/boxjelly.png",
+    "width": 640,
+    "height": 811,
+    "artist": "Avispa marina.jpg: Guido Gautsch, Toyota, Japan\nderivative work: Mithril (talk)",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Avispa_marina_cropped.png",
+    "title": "Avispa marina cropped"
+  },
+  "pistolshrimp": {
+    "src": "assets/animals/pistolshrimp.jpg",
+    "width": 640,
+    "height": 640,
+    "artist": "OpenCage",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Alpheus_distinguendus.jpg",
+    "title": "Alpheus distinguendus"
+  },
+  "blueringoctopus": {
+    "src": "assets/animals/blueringoctopus.jpg",
+    "width": 640,
+    "height": 804,
+    "artist": "Jens Petersen",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hapalochlaena_lunulata2.JPG",
+    "title": "Hapalochlaena lunulata2"
+  },
+  "mantisshrimp": {
+    "src": "assets/animals/mantisshrimp.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Cédric Péneau",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_R%C3%A9union.jpg",
+    "title": "Odontodactylus scyllarus Réunion"
+  },
+  "seahorse": {
+    "src": "assets/animals/seahorse.jpg",
+    "width": 640,
+    "height": 853,
+    "artist": "Emőke Dénes",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hal_-_Hippocampus_kuda_-_4.jpg",
+    "title": "Hal - Hippocampus kuda - 4"
+  },
+  "coconutoctopus": {
+    "src": "assets/animals/coconutoctopus.jpg",
+    "width": 640,
+    "height": 384,
+    "artist": "Bernard DUPONT from FRANCE",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Coconut_Octopus_(Amphioctopus_marginatus)_(6079648725).jpg",
+    "title": "Coconut Octopus (Amphioctopus marginatus) (6079648725)"
+  },
+  "coral": {
+    "src": "assets/animals/coral.jpg",
+    "width": 640,
+    "height": 428,
+    "artist": "Albert Kok at Dutch Wikipedia\n\n(Original text: albert kok)",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hertshoon.jpg",
+    "title": "Hertshoon"
+  },
+  "sanddollar": {
+    "src": "assets/animals/sanddollar.jpg",
+    "width": 640,
+    "height": 640,
+    "artist": "louisiv826",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dendraster_excentricus_677671797_(square).jpg",
+    "title": "Dendraster excentricus 677671797 (square)"
+  },
+  "clownfish": {
+    "src": "assets/animals/clownfish.jpg",
+    "width": 640,
+    "height": 428,
+    "artist": "Ritiks",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Clown_fish_in_the_Andaman_Coral_Reef.jpg",
+    "title": "Clown fish in the Andaman Coral Reef"
+  },
+  "mandarinfish": {
+    "src": "assets/animals/mandarinfish.jpg",
+    "width": 640,
+    "height": 474,
+    "artist": "Luc Viatour",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Synchiropus_splendidus_2_Luc_Viatour.jpg",
+    "title": "Synchiropus splendidus 2 Luc Viatour"
+  },
+  "giantclam": {
+    "src": "assets/animals/giantclam.jpg",
+    "width": 640,
+    "height": 520,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Giant_clam_(Tridacna_gigas)_Michaelmas_Cay.jpg",
+    "title": "Giant clam (Tridacna gigas) Michaelmas Cay"
+  },
+  "parrotfish": {
+    "src": "assets/animals/parrotfish.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Pez_loro_(Scarus_psittacus),_Mah%C3%A9,_Seychelles,_2025-09-07,_DD_52.jpg",
+    "title": "Pez loro (Scarus psittacus), Mahé, Seychelles, 2025-09-07, DD 52"
+  },
+  "pompomcrab": {
+    "src": "assets/animals/pompomcrab.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Eliot Ferguson",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lybia_tessellata.jpg",
+    "title": "Lybia tessellata"
+  },
+  "bluetang": {
+    "src": "assets/animals/bluetang.jpg",
+    "width": 640,
+    "height": 428,
+    "artist": "DerHans04",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Paletten-Doktorfisch_M%C3%BCnster.JPG",
+    "title": "Paletten-Doktorfisch Münster"
+  },
+  "urchin": {
+    "src": "assets/animals/urchin.jpg",
+    "width": 640,
+    "height": 853,
+    "artist": "Ed Bierman from CA, usa",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Urchin_(9398869414).jpg",
+    "title": "Urchin (9398869414)"
+  },
+  "bluespottedray": {
+    "src": "assets/animals/bluespottedray.jpg",
+    "width": 640,
+    "height": 341,
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Raya_de_arrecife_(Taeniura_lymma),_mar_Rojo,_Egipto,_2023_(cropped).jpg",
+    "title": "Raya de arrecife (Taeniura lymma), mar Rojo, Egipto, 2023 (cropped)"
+  },
+  "nurseshark": {
+    "src": "assets/animals/nurseshark.jpg",
+    "width": 640,
+    "height": 420,
+    "artist": "Creator not listed in file metadata",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Nurse_shark.jpg",
+    "title": "Nurse shark"
+  },
+  "conesnail": {
+    "src": "assets/animals/conesnail.jpg",
+    "width": 640,
+    "height": 478,
+    "artist": "Kerry Matz, National Institute of General Medical Services",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Conus-geographicus.jpg",
+    "title": "Conus-geographicus"
+  },
+  "mimicoctopus": {
+    "src": "assets/animals/mimicoctopus.jpg",
+    "width": 640,
+    "height": 800,
+    "artist": "Steve Childs",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Mimic_Octopus_2.jpg",
+    "title": "Mimic Octopus 2"
+  },
+  "lionfish": {
+    "src": "assets/animals/lionfish.jpg",
+    "width": 640,
+    "height": 464,
+    "artist": "Photo by Jens Petersen, Edited by User:Olegiwit (cloned in part of fins) and Fir0002 (removed spots and noise)",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Pterois_volitans_Manado-e_edit.jpg",
+    "title": "Pterois volitans Manado-e edit"
+  },
+  "moonjelly": {
+    "src": "assets/animals/moonjelly.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Luc Viatour",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Aurelia_aurita_(Cnidaria)_Luc_Viatour.jpg",
+    "title": "Aurelia aurita (Cnidaria) Luc Viatour"
+  },
+  "porcupinefish": {
+    "src": "assets/animals/porcupinefish.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "Chris Spain",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Diodon_holocanthus_430513883.jpg",
+    "title": "Diodon holocanthus 430513883"
+  },
+  "seadragon": {
+    "src": "assets/animals/seadragon.jpg",
+    "width": 640,
+    "height": 426,
+    "artist": "James Rosindell",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Leafy_Seadragon_on_Kangaroo_Island.jpg",
+    "title": "Leafy Seadragon on Kangaroo Island"
+  },
+  "frogfish": {
+    "src": "assets/animals/frogfish.jpg",
+    "width": 640,
+    "height": 616,
+    "artist": "Steve Childs",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Antennarius_pictus_-_Painted_FrogFish.jpg",
+    "title": "Antennarius pictus - Painted FrogFish"
+  },
+  "leopardshark": {
+    "src": "assets/animals/leopardshark.jpg",
+    "width": 640,
+    "height": 367,
+    "artist": "Mfield, Matthew Field, www.photography.mattfield.com",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Leopard_shark_in_kelp.jpg",
+    "title": "Leopard shark in kelp"
+  },
+  "crownofthorns": {
+    "src": "assets/animals/crownofthorns.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "John Hepburn",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Acanthaster_planci_460468243_(closeup).jpg",
+    "title": "Acanthaster planci 460468243 (closeup)"
+  },
+  "gardeneel": {
+    "src": "assets/animals/gardeneel.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "Esquilo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:R%C3%B6r%C3%A5lar.jpg",
+    "title": "Rörålar"
+  },
+  "zebrashark": {
+    "src": "assets/animals/zebrashark.png",
+    "width": 640,
+    "height": 339,
+    "artist": "Felix Frost-Savage",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Zebra_Shark_at_Sydney_Sea_Life_Aquarium.png",
+    "title": "Zebra Shark at Sydney Sea Life Aquarium"
+  },
+  "bobtailsquid": {
+    "src": "assets/animals/bobtailsquid.jpg",
+    "width": 640,
+    "height": 490,
+    "artist": "Jamie Foster",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euprymna_scolopes,_South_shore_of_Oahu,_Hawaii.tiff",
+    "title": "Euprymna scolopes, South shore of Oahu, Hawaii"
+  },
+  "spanishdancer": {
+    "src": "assets/animals/spanishdancer.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "Pritska (talk) (Uploads)",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Spanish_dancer_Dahab.jpg",
+    "title": "Spanish dancer Dahab"
+  },
+  "ribboneel": {
+    "src": "assets/animals/ribboneel.jpg",
+    "width": 640,
+    "height": 514,
+    "artist": "Bernard DUPONT from FRANCE",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ribbon_Moray_(Rhinomuraena_quaesita)_(6052858389)_(cropped).jpg",
+    "title": "Ribbon Moray (Rhinomuraena quaesita) (6052858389) (cropped)"
+  },
+  "dolphin": {
+    "src": "assets/animals/dolphin.jpg",
+    "width": 640,
+    "height": 473,
+    "artist": "NASA",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01-cropped.jpg",
+    "title": "Tursiops truncatus 01-cropped"
+  },
+  "reefshark": {
+    "src": "assets/animals/reefshark.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Blacktip_reef_shark_(Carcharhinus_melanopterus)_Moorea.jpg",
+    "title": "Blacktip reef shark (Carcharhinus melanopterus) Moorea"
+  },
+  "scallop": {
+    "src": "assets/animals/scallop.jpg",
+    "width": 640,
+    "height": 461,
+    "artist": "Manfred Heyde",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Pecten_maximus_Pilgermuschel.jpg",
+    "title": "Pecten maximus Pilgermuschel"
+  },
+  "octopus": {
+    "src": "assets/animals/octopus.jpg",
+    "width": 640,
+    "height": 487,
+    "artist": "albert kok",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+    "title": "Octopus2"
+  },
+  "harborseal": {
+    "src": "assets/animals/harborseal.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Common_seal_(Phoca_vitulina)_2.jpg",
+    "title": "Common seal (Phoca vitulina) 2"
+  },
+  "moray": {
+    "src": "assets/animals/moray.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "Nhobgood Nick Hobgood",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Moray_eel_komodo.jpg",
+    "title": "Moray eel komodo"
+  },
+  "eagleray": {
+    "src": "assets/animals/eagleray.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "the manta ray had a family",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Eagle_Ray_Turks_and_Caicos_Dec_15_2006.JPG",
+    "title": "Eagle Ray Turks and Caicos Dec 15 2006"
+  },
+  "walrus": {
+    "src": "assets/animals/walrus.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Nixette",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Walrus_in_the_Russian_Arctic_National_Park,_Novaya_Zemlya_2015-2.jpg",
+    "title": "Walrus in the Russian Arctic National Park, Novaya Zemlya 2015-2"
+  },
+  "manta": {
+    "src": "assets/animals/manta.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "jon hanson from london, UK",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Manta_birostris-Thailand4.jpg",
+    "title": "Manta birostris-Thailand4"
+  },
+  "fringehead": {
+    "src": "assets/animals/fringehead.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "DarkNight0917",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sarcastic_Fringehead_California_ScienCenter.jpg",
+    "title": "Sarcastic Fringehead California ScienCenter"
+  },
+  "batfish": {
+    "src": "assets/animals/batfish.jpg",
+    "width": 640,
+    "height": 428,
+    "artist": "Georgina Jones",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ogcocephalus_darwini_426721656.jpg",
+    "title": "Ogcocephalus darwini 426721656"
+  },
+  "cuttlefish": {
+    "src": "assets/animals/cuttlefish.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Sepia_com%C3%BAn_(Sepia_officinalis),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-21,_DD_62.jpg",
+    "title": "Sepia común (Sepia officinalis), Parque natural de la Arrábida, Portugal, 2020-07-21, DD 62"
+  },
+  "barracuda": {
+    "src": "assets/animals/barracuda.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Gran_barracuda_(Sphyraena_barracuda),_Yeda,_Arabia_Saudita,_2025-05-20,_DD_118.jpg",
+    "title": "Gran barracuda (Sphyraena barracuda), Yeda, Arabia Saudita, 2025-05-20, DD 118"
+  },
+  "bluewhale": {
+    "src": "assets/animals/bluewhale.jpg",
+    "width": 640,
+    "height": 443,
+    "artist": "NOAA Photo Library",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "title": "Anim1754 - Flickr - NOAA Photo Library"
+  },
+  "lobster": {
+    "src": "assets/animals/lobster.jpg",
+    "width": 640,
+    "height": 422,
+    "artist": "OAR/National Undersea Research Program (NURP).",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Nur01521_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "title": "Nur01521 - Flickr - NOAA Photo Library"
+  },
+  "whaleshark": {
+    "src": "assets/animals/whaleshark.jpg",
+    "width": 640,
+    "height": 320,
+    "artist": "Abe Khao Lak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Similan_Dive_Center_-_great_whale_shark.jpg",
+    "title": "Similan Dive Center - great whale shark"
+  },
+  "greatwhite": {
+    "src": "assets/animals/greatwhite.jpg",
+    "width": 640,
+    "height": 445,
+    "artist": "Pterantula (Terry Goss) at en.wikipedia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:White_shark.jpg",
+    "title": "White shark"
+  },
+  "turtle": {
+    "src": "assets/animals/turtle.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+    "title": "Green sea turtle (Chelonia mydas) Moorea"
+  },
+  "sailfish": {
+    "src": "assets/animals/sailfish.jpg",
+    "width": 640,
+    "height": 853,
+    "artist": "Robert Webster",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Istiophorus_platypterus_101956558.jpg",
+    "title": "Istiophorus platypterus 101956558"
+  },
+  "humpback": {
+    "src": "assets/animals/humpback.jpg",
+    "width": 640,
+    "height": 448,
+    "artist": "Juan Cruzado Cortés",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching_off_Cabo_San_Lucas.jpg",
+    "title": "Humpback whale breaching off Cabo San Lucas"
+  },
+  "tigershark": {
+    "src": "assets/animals/tigershark.jpg",
+    "width": 640,
+    "height": 475,
+    "artist": "Albert kok",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tiger_shark.jpg",
+    "title": "Tiger shark"
+  },
+  "orca": {
+    "src": "assets/animals/orca.jpg",
+    "width": 640,
+    "height": 425,
+    "artist": "Robert Pittman",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Killerwhales_jumping.jpg",
+    "title": "Killerwhales jumping"
+  },
+  "beluga": {
+    "src": "assets/animals/beluga.jpg",
+    "width": 640,
+    "height": 337,
+    "artist": "Javier Yaya Tur / CIUDAD DE LAS ARTES Y LAS CIENCIAS from Valencia, España",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Oceanogr%C3%A0fic_29102004.jpg",
+    "title": "Oceanogràfic 29102004"
+  },
+  "sunfish": {
+    "src": "assets/animals/sunfish.jpg",
+    "width": 640,
+    "height": 500,
+    "artist": "U.S. National Oceanic and Atmospheric Administration",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Mola_mola.jpg",
+    "title": "Mola mola"
+  },
+  "narwhal": {
+    "src": "assets/animals/narwhal.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "пресс-служба ПАО \"Газпром нефть\"",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
+    "title": "Нарвал в российской Арктике"
+  },
+  "lionsmane": {
+    "src": "assets/animals/lionsmane.jpg",
+    "width": 640,
+    "height": 411,
+    "artist": "W.carter",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_7.jpg",
+    "title": "Lion's mane jellyfish in Gullmarn fjord at Sämstad 7"
+  },
+  "sunflowerstar": {
+    "src": "assets/animals/sunflowerstar.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Jerry Kirkhart from Los Osos, Calif.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Pycnopodia_helianthoides_SLO_CA.jpg",
+    "title": "Pycnopodia helianthoides SLO CA"
+  },
+  "coelacanth": {
+    "src": "assets/animals/coelacanth.png",
+    "width": 640,
+    "height": 384,
+    "artist": "Bruce A.S. Henderson",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast,_South_Africa,_on_22_November_2019.png",
+    "title": "Coelacanth off Pumula on the KwaZulu-Natal South Coast, South Africa, on 22 November 2019"
+  },
+  "spidercrab": {
+    "src": "assets/animals/spidercrab.jpg",
+    "width": 640,
+    "height": 459,
+    "artist": "Lycaon (Hans Hillewaert)",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Macrocheira_kaempferi.jpg",
+    "title": "Macrocheira kaempferi"
+  },
+  "nautilus": {
+    "src": "assets/animals/nautilus.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Nautilus_pompilius_(detail).jpg",
+    "title": "Nautilus pompilius (detail)"
+  },
+  "lanternfish": {
+    "src": "assets/animals/lanternfish.jpg",
+    "width": 640,
+    "height": 222,
+    "artist": "Emma Kissling",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Myctophum_punctatum1.jpg",
+    "title": "Myctophum punctatum1"
+  },
+  "oarfish": {
+    "src": "assets/animals/oarfish.jpg",
+    "width": 640,
+    "height": 241,
+    "artist": "Sandstein",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Regalecus_glesne,_Naturhistorisches_Museum_Wien.jpg",
+    "title": "Regalecus glesne, Naturhistorisches Museum Wien"
+  },
+  "swordfish": {
+    "src": "assets/animals/swordfish.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Naturalis Biodiversity Center",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Xiphias_gladius_Linnaeus,_1758_2599925021.jpg",
+    "title": "Xiphias gladius Linnaeus, 1758 2599925021"
+  },
+  "hatchetfish": {
+    "src": "assets/animals/hatchetfish.jpg",
+    "width": 640,
+    "height": 430,
+    "artist": "SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:ArgyropelecusAculeatus.jpg",
+    "title": "ArgyropelecusAculeatus"
+  },
+  "siphonophore": {
+    "src": "assets/animals/siphonophore.jpg",
+    "width": 640,
+    "height": 347,
+    "artist": "Catriona Munro, Stefan Siebert, Felipe Zapata, Mark Howison, Alejandro Damian-Serrano, Samuel H. Church, Freya E.Goetz, Philip R. Pugh, Steven H.D.Haddock, Casey W.Dunn",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Praya_dubia_(Giant_siphonophore).jpg",
+    "title": "Praya dubia (Giant siphonophore)"
+  },
+  "barreleye": {
+    "src": "assets/animals/barreleye.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "Creator not listed in file metadata",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Barreleye-fish_GoK.jpg",
+    "title": "Barreleye-fish GoK"
+  },
+  "greenland": {
+    "src": "assets/animals/greenland.jpg",
+    "width": 640,
+    "height": 360,
+    "artist": "NOAA Okeanos Explorer Program",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Somniosus_microcephalus_okeanos.jpg",
+    "title": "Somniosus microcephalus okeanos"
+  },
+  "flapjack": {
+    "src": "assets/animals/flapjack.jpg",
+    "width": 640,
+    "height": 480,
+    "artist": "Ed Bowlby, NOAA/Olympic Coast NMS; NOAA/OAR/Office of Ocean Exploration",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Opisthoteuthis_californiana.jpg",
+    "title": "Opisthoteuthis californiana"
+  },
+  "frilledshark": {
+    "src": "assets/animals/frilledshark.jpg",
+    "width": 640,
+    "height": 256,
+    "artist": "Robert Mintern",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Chlamydoselachus_anguineus1.jpg",
+    "title": "Chlamydoselachus anguineus1"
+  },
+  "combjelly": {
+    "src": "assets/animals/combjelly.jpg",
+    "width": 640,
+    "height": 501,
+    "artist": "Ryan Schwark",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lampocteis_at_the_Monterey_Bay_Aquarium.jpg",
+    "title": "Lampocteis at the Monterey Bay Aquarium"
+  },
+  "isopod": {
+    "src": "assets/animals/isopod.jpg",
+    "width": 640,
+    "height": 360,
+    "artist": "NOAA Office of Ocean Exploration and Research",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Bathynomus_giganteus_as_seen_by_remotely_operated_vehicle_(ROV)_Deep_Discoverer_at_a_depth_of_816_meters_at_South_Reed,_Gulf_of_Mexico,_2017-11-30.webm",
+    "title": "Bathynomus giganteus as seen by remotely operated vehicle (ROV) Deep Discoverer at a depth of 816 meters at South Reed, Gulf of Mexico, 2017-11-30"
+  },
+  "giantsquid": {
+    "src": "assets/animals/giantsquid.jpg",
+    "width": 640,
+    "height": 960,
+    "artist": "NTNU Vitenskapsmuseet",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Giant_squid_Ranheim.jpg",
+    "title": "Giant squid Ranheim"
+  },
+  "blobfish": {
+    "src": "assets/animals/blobfish.jpg",
+    "width": 640,
+    "height": 253,
+    "artist": "Alan Riverstone McCulloch (1885-1925)",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Psychrolutes_marcidus.jpg",
+    "title": "Psychrolutes marcidus"
+  },
+  "basketstar": {
+    "src": "assets/animals/basketstar.jpg",
+    "width": 640,
+    "height": 472,
+    "artist": "NOAA",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Gorgeucnemis.jpeg",
+    "title": "Gorgeucnemis"
+  },
+  "bristlemouth": {
+    "src": "assets/animals/bristlemouth.png",
+    "width": 640,
+    "height": 344,
+    "artist": "Creator not listed in file metadata",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cyclothone_elongata_and_Bonaparte_pedaliota.png",
+    "title": "Cyclothone elongata and Bonaparte pedaliota"
+  },
+  "ghostshark": {
+    "src": "assets/animals/ghostshark.jpg",
+    "width": 640,
+    "height": 438,
+    "artist": "Linda Snook / MBNMS",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hydrolagus_colliei.jpg",
+    "title": "Hydrolagus colliei"
+  },
+  "spermwhale": {
+    "src": "assets/animals/spermwhale.jpg",
+    "width": 640,
+    "height": 360,
+    "artist": "Gabriel Barathieu",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Mother_and_baby_sperm_whale.jpg",
+    "title": "Mother and baby sperm whale"
+  },
+  "fangtooth": {
+    "src": "assets/animals/fangtooth.jpg",
+    "width": 640,
+    "height": 342,
+    "artist": "This illustration was made by Citron\nYou must credit this : Citron / CC-BY-SA-3.0",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Anoplogaster_cornuta_2012.jpg",
+    "title": "Anoplogaster cornuta 2012"
+  },
+  "elephantseal": {
+    "src": "assets/animals/elephantseal.jpg",
+    "width": 640,
+    "height": 427,
+    "artist": "Antoine Lamielle",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2020-11_Kerguelen_Islands_-_Southern_elephant_seal_30.jpg",
+    "title": "2020-11 Kerguelen Islands - Southern elephant seal 30"
+  },
+  "tubeworm": {
+    "src": "assets/animals/tubeworm.jpg",
+    "width": 640,
+    "height": 540,
+    "artist": "null",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Campagne_HOT_-_Vers_g%C3%A9ants_(Riftia_pachyptila)_(Ifremer_00530-64223_-_52381).jpg",
+    "title": "Campagne HOT - Vers géants (Riftia pachyptila) (Ifremer 00530-64223 - 52381)"
+  },
+  "beakedwhale": {
+    "src": "assets/animals/beakedwhale.jpg",
+    "width": 640,
+    "height": 234,
+    "artist": "Jörg Mazur",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ziphius_carvirostris.jpg",
+    "title": "Ziphius carvirostris"
+  },
+  "goblinshark": {
+    "src": "assets/animals/goblinshark.jpg",
+    "width": 640,
+    "height": 344,
+    "artist": "Michigan State University/USFWS",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Goblin_shark_(Mitsukurina_owstoni).jpg",
+    "title": "Goblin shark (Mitsukurina owstoni)"
+  },
+  "dumbo": {
+    "src": "assets/animals/dumbo.jpg",
+    "width": 640,
+    "height": 542,
+    "artist": "NOAA Okeanos Explorer",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dumbo-hires_(cropped).jpg",
+    "title": "Dumbo-hires (cropped)"
+  },
+  "gulper": {
+    "src": "assets/animals/gulper.jpg",
+    "width": 640,
+    "height": 370,
+    "artist": "Creator not listed in file metadata",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Eurypharynx_pelecanoides.jpg",
+    "title": "Eurypharynx pelecanoides"
+  },
+  "seapig": {
+    "src": "assets/animals/seapig.jpg",
+    "width": 640,
+    "height": 439,
+    "artist": "Lindberg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Scotoplanes_globosa1.jpg",
+    "title": "Scotoplanes globosa1"
+  },
+  "rattail": {
+    "src": "assets/animals/rattail.png",
+    "width": 640,
+    "height": 358,
+    "artist": "Thomas Linley",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Grenadier_basic_external_features.png",
+    "title": "Grenadier basic external features"
+  },
+  "tripodfish": {
+    "src": "assets/animals/tripodfish.jpg",
+    "width": 640,
+    "height": 640,
+    "artist": "null",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Campagne_BIOZAIRE_2_-_Poisson_tr%C3%A9pied_ou_poisson_tripode_(Ifremer_00574-68561)_1.jpg",
+    "title": "Campagne BIOZAIRE 2 - Poisson trépied ou poisson tripode (Ifremer 00574-68561) 1"
+  },
+  "seaspider": {
+    "src": "assets/animals/seaspider.jpg",
+    "width": 640,
+    "height": 481,
+    "artist": "Hectonichus",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Colossendeidae_-_Colossendeis_macerrima.jpg",
+    "title": "Colossendeidae - Colossendeis macerrima"
+  },
+  "seapen": {
+    "src": "assets/animals/seapen.png",
+    "width": 640,
+    "height": 1024,
+    "artist": "Willy Kükenthal",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Umbellula_encrinus.png",
+    "title": "Umbellula encrinus"
+  },
+  "hammerhead": {
+    "src": "assets/animals/hammerhead.jpg",
+    "width": 640,
+    "height": 373,
+    "artist": "Albert kok",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Great_hammerhead2.jpg",
+    "title": "Great hammerhead2"
+  },
+  "tuna": {
+    "src": "assets/animals/tuna.png",
+    "width": 640,
+    "height": 387,
+    "artist": "Creator not listed in file metadata",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Thunnus_albacares.png",
+    "title": "Thunnus albacares"
+  },
+  "strawberry": {
+    "src": "assets/animals/strawberry.jpg",
+    "width": 640,
+    "height": 625,
+    "artist": "Creator not listed in file metadata",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Histioteuthis_NOAA_(cropped_and_rotated).jpg",
+    "title": "Histioteuthis NOAA (cropped and rotated)"
+  },
+  "fireflysquid": {
+    "src": "assets/animals/fireflysquid.jpg",
+    "width": 640,
+    "height": 1280,
+    "artist": "ja:user:Dieno",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Watasenia_scintillans.jpg",
+    "title": "Watasenia scintillans"
+  },
+  "glass": {
+    "src": "assets/animals/glass.jpg",
+    "width": 640,
+    "height": 675,
+    "artist": "The original uploader was Kils at English Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Squidu.jpg",
+    "title": "Squidu"
+  },
+  "penguin": {
+    "src": "assets/animals/penguin.jpg",
+    "width": 640,
+    "height": 1028,
+    "artist": "Ian Duffy from UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
+    "title": "Aptenodytes forsteri -Snow Hill Island, Antarctica -adults and juvenile-8"
+  },
+  "viperfish": {
+    "src": "assets/animals/viperfish.jpg",
+    "width": 640,
+    "height": 431,
+    "artist": "Edd48",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Messina_Straits_Chauliodus_sloani.jpg",
+    "title": "Messina Straits Chauliodus sloani"
+  },
+  "vampiresquid": {
+    "src": "assets/animals/vampiresquid.jpg",
+    "width": 640,
+    "height": 409,
+    "artist": "Carl Chun",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Vampyroteuthis_illustration.jpg",
+    "title": "Vampyroteuthis illustration"
+  },
+  "roughy": {
+    "src": "assets/animals/roughy.png",
+    "width": 640,
+    "height": 321,
+    "artist": "Creator not listed in file metadata",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Orange_roughy.png",
+    "title": "Orange roughy"
+  },
+  "cookiecutter": {
+    "src": "assets/animals/cookiecutter.jpg",
+    "width": 640,
+    "height": 338,
+    "artist": "NOAA Observer Project",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Isistius_brasiliensis.jpg",
+    "title": "Isistius brasiliensis"
+  },
+  "dragonfish": {
+    "src": "assets/animals/dragonfish.jpg",
+    "width": 640,
+    "height": 589,
+    "artist": "Edith Widder/HBOI",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Photostomias.jpg",
+    "title": "Photostomias"
+  },
+  "anglerfish": {
+    "src": "assets/animals/anglerfish.png",
+    "width": 640,
+    "height": 599,
+    "artist": "Creator not listed in file metadata",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Humpback_anglerfish.png",
+    "title": "Humpback anglerfish"
+  },
+  "yeticrab": {
+    "src": "assets/animals/yeticrab.jpg",
+    "width": 640,
+    "height": 661,
+    "artist": "Andrew Thurber, Oregon State University",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Yeti_crab.jpg",
+    "title": "Yeti crab"
+  },
+  "volcanosnail": {
+    "src": "assets/animals/volcanosnail.png",
+    "width": 640,
+    "height": 524,
+    "artist": "Chong Chen, Katsuyuki Uematsu, Katrin Linse & Julia D. Sigwart",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Chrysomallon_squamiferum_9.png",
+    "title": "Chrysomallon squamiferum 9"
+  },
+  "boneworm": {
+    "src": "assets/animals/boneworm.jpg",
+    "width": 640,
+    "height": 1141,
+    "artist": "Robert C. Vrijenhoek, Shannon B. Johnson & Greg W. Rouse",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Osedax_roseus.jpg",
+    "title": "Osedax roseus"
+  },
+  "atolla": {
+    "src": "assets/animals/atolla.jpg",
+    "width": 640,
+    "height": 426,
+    "artist": "NOAA Ocean Explorer from USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Atolla_wyvillei_(Operation_Deep_Scope_2004).jpg",
+    "title": "Atolla wyvillei (Operation Deep Scope 2004)"
+  },
+  "swimmingcucumber": {
+    "src": "assets/animals/swimmingcucumber.jpg",
+    "width": 640,
+    "height": 640,
+    "artist": "Image courtesy of Expedition to the Deep Slope 2007.",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Enypniastes_sp.jpg",
+    "title": "Enypniastes sp"
+  },
+  "bigfin": {
+    "src": "assets/animals/bigfin.jpg",
+    "width": 640,
+    "height": 749,
+    "artist": "NOAA",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:LongArmSquid.jpg",
+    "title": "LongArmSquid"
+  },
+  "snailfish": {
+    "src": "assets/animals/snailfish.png",
+    "width": 640,
+    "height": 850,
+    "artist": "Gerringer M. E., Linley T. D., Jamieson A. J., Goetze E., Drazen J. C.",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Pseudoliparis_swirei.png",
+    "title": "Pseudoliparis swirei"
+  }
+};
